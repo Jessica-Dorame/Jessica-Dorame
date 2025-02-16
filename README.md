@@ -10,7 +10,7 @@ Welcome to my profile I'm Jessica Dórame., i'm still a studnt, learning by my o
 
 <a href="http://www.github.com/Jessica-Dorame"><img src="https://github-readme-stats.vercel.app/api?username=Jessica-Dorame&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="Jessica-Dorame's GitHub stats" /></a> <a href="http://www.github.com/Jessica-Dorame"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jessica-Dorame&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Jessica-Dorame" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Dorame&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Jessica-Dorame" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Dorame&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### 🚀 ¿What am I doing now?
 
