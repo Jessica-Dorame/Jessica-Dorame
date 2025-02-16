@@ -1,7 +1,7 @@
 
 ![Image](https://github.com/user-attachments/assets/0807dc2b-8d83-4aa6-8274-3af9309b7b30)
 
-<p align="center"><b> </b>SOCIAL You can follow me here ;  </b></p>
+<p align="center"> <strong> SOCIAL You can follow me here ;  </strong></p>
 
 <p align="center">
 	<a href="https://www.instagram.com/jessicadorame.dev/" target="_blank">
