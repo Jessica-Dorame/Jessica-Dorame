@@ -1,7 +1,19 @@
 
 ![Image](https://github.com/user-attachments/assets/0807dc2b-8d83-4aa6-8274-3af9309b7b30)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Jessica_Dorame_?label=Follow%20me%20on%20Twitter&style=for-the-badge)
+<p align="center"><b> </b>SOCIAL You can follow me here ;  </b></p>
+
+<p align="center">
+	<a href="https://www.instagram.com/jessicadorame.dev/" target="_blank">
+	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/instagram.svg" width="40" height="95">
+	</a>
+	<a href="https://twitter.com/BryanHe52482198" target="_blank">
+	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/twitter.svg" width="40" height="95">
+	</a>
+	<a href="https://www.linkedin.com/in/bryan-herrera-dev/" target="_blank">
+	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/linkedin.svg" width="40" height="95">
+	</a>
+</p
 
 ## ¡Hello! 👋🏻
 
@@ -18,19 +30,7 @@ Welcome to my profile I'm Jessica Dórame., i'm still a studnt, learning by my o
 
 <a href="https://github.com/Jessica-Dorame" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Dorame&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p align="center"><b> </b>SOCIAL You can follow me here ;  </b></p>
-
-<p align="center">
-	<a href="https://www.instagram.com/jessicadorame.dev/" target="_blank">
-	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/instagram.svg" width="40" height="95">
-	</a>
-	<a href="https://twitter.com/BryanHe52482198" target="_blank">
-	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/twitter.svg" width="40" height="95">
-	</a>
-	<a href="https://www.linkedin.com/in/bryan-herrera-dev/" target="_blank">
-	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/linkedin.svg" width="40" height="95">
-	</a>
-</p>
+>
 
 
 
