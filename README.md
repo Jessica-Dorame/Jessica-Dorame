@@ -9,9 +9,8 @@ Welcome to my profile I'm Jessica Dórame., i'm still a studnt, learning by my o
 ### 🚀 ¿What am I doing now?
 
 - 👨🏻‍💻 **Developing personal projects!.**
-
-* 🌍  I'm based in México
-* 🧠  I'm learning Python
+* 🧠 Learning python
+* 🚀 learning JavaSript
 
 <b>My GitHub Stats</b>
 
