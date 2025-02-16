@@ -10,7 +10,7 @@
 	<a href="https://x.com/Jessica_Dorame_" target="_blank">
 	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/twitter.svg" width="40" height="95">
 	</a>
-	<a href="[https://www.linkedin.com/in/jessicadorame/" target="_blank">
+	<a href="https://www.linkedin.com/in/jessicadorame/" target="_blank">
 	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/linkedin.svg" width="40" height="95">
 	</a>
 </p
