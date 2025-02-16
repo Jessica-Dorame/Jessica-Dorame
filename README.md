@@ -21,7 +21,7 @@ Welcome to my profile I'm Jessica Dórame., i'm still a studnt, learning by my o
 
 <p align="center">
 	<a href="https://www.instagram.com/jessicadorame.dev/" target="_blank">
-	<img align="center" src=https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/instagram.svg" width="40" height="95">
+	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/instagram.svg" width="40" height="95">
 	</a>
 	<a href="https://twitter.com/BryanHe52482198" target="_blank">
 	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/instagram.svg" width="40" height="95">
