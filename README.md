@@ -1,26 +1,37 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jessica Dórame
-======================================================================================================================================
+![Jessica Dórame -](![Image](https://github.com/user-attachments/assets/0c88abbb-c091-48f0-9f5a-4c7561af3fd3))
 
-I'm still a student, entering into personal projects and learning new languages on my own.
+![GitHub followers](https://img.shields.io/github/followers/Jessica-Dorame?label=Follow%20me%20on%20GitHub&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/Jessica_Dorame_?label=Follow%20me%20on%20Twitter&style=for-the-badge)
 
-* 🌍  I'm based in México
-* ✉️  You can contact me at [jessicadorame.s@gmail.com](mailto:jessicadorame.s@gmail.com)
+## ¡Hello! 👋🏻
 
-### Skills
+Welcome to my profile I'm Jessica Dórame., i'm still a studnt, learning by my own too...
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+### 🚀 ¿What am I doing now?
+
+- 👨🏻‍💻 **Developing personal projects!.**
+- 
+<div>
+	<p>🎓︎ I am currently learnin</p>
+	
+![Image](https://github.com/user-attachments/assets/1ee4b7c3-77ba-40a7-8c7e-85c38611dafc)
+
+</div>
+<br>
+<p align="center">
+	<a href="https://www.instagram.com/jessicadorame.dev/" target="_blank">
+	<img align="center" sec=![Image](https://github.com/user-attachments/assets/04e6b9ce-db8f-49cd-9fec-a4317355d25e)" width="40" height="95">
+	</a>
+	<a href="https://x.com/Jessica_Dorame_" target="_blank">
+	<img align="center" src="![Image](https://github.com/user-attachments/assets/2ddacaed-5dba-4edd-8522-efeb0999f833)" width="40" height="95">
+	</a>
+	<a href="https://www.linkedin.com/in/jessicadorame/" target="_blank">
+	<img align="center" src="![Image](https://github.com/user-attachments/assets/d683a671-cebe-424a-b8af-55b71aea894f)" width="40" height="95">
+	</a>
 </p>
 
-### Socials
+<h2 align='left'><i>👨‍💻 Languages and tools</i></h2>
 
-<p align="left"> <a href="https://www.github.com/Jessica-Dorame" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/jessicadorame.dev/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jessicadorame/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Jessica_Dorame_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Jessica-Dorame"><img src="https://github-readme-stats.vercel.app/api?username=Jessica-Dorame&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="Jessica-Dorame's GitHub stats" /></a>
-
-<a href="http://www.github.com/Jessica-Dorame"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jessica-Dorame&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Jessica-Dorame" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Dorame&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+| **programming languages** | **Frameworks** | **Data bases** | **Operative systems** |
+|:---: | :---: | :---: | :---:|
+| <p align="center"><img src='![Image](https://github.com/user-attachments/assets/6f412822-70d6-428b-9981-b9e4dcf07f6f)' height='42px'/> <img src='![Image](https://github.com/user-attachments/assets/9c19119d-222c-4356-bed0-22ef198e760c)' height='42px'/> <img src='![Image](https://github.com/user-attachments/assets/480fb073-670d-41df-a68f-4fa5d40ccb32)' height='42px'/> <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'height='42px'/> <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png' height='42px'/> <img src='![Image](https://github.com/user-attachments/assets/caa806c1-a3a6-4bbf-9628-7af3e0efaeaa)' height='42px'/> img src ='![Image](https://github.com/user-attachments/assets/38c337ed-cc7e-4914-9700-e14bc8ac0e59)' height='42px'/> </p>|
