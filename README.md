@@ -18,7 +18,7 @@ Welcome to my profile I'm Jessica Dórame., i'm still a studnt, learning by my o
 
 <a href="https://github.com/Jessica-Dorame" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-Dorame&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p> align="center"><b> </b>SOCIAL You can follow me here ;  </b></p>
+<p align="center"><b> </b>SOCIAL You can follow me here ;  </b></p>
 
 <p align="center">
 	<a href="https://www.instagram.com/jessicadorame.dev/" target="_blank">
