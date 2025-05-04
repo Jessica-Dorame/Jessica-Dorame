@@ -4,7 +4,7 @@
 <p align="center"> <strong> SOCIAL You can follow me here ;  </strong></p>
 
 <p align="center">
-	<a href="https://www.instagram.com/jessicadorame.dev/" target="_blank">
+	<a href="https://www.instagram.com/jessica_dorame16/" target="_blank">
 	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/instagram.svg" width="40" height="95">
 	</a>
 	<a href="https://x.com/Jessica_Dorame_" target="_blank">
