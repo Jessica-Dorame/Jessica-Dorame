@@ -1,20 +1,6 @@
 
 ![Image](https://github.com/user-attachments/assets/0807dc2b-8d83-4aa6-8274-3af9309b7b30)
 
-<p align="center"> <strong> SOCIAL You can follow me here ;  </strong></p>
-
-<p align="center">
-	<a href="https://www.instagram.com/jessica_dorame16/" target="_blank">
-	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/instagram.svg" width="40" height="95">
-	</a>
-	<a href="https://x.com/Jessica_Dorame_" target="_blank">
-	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/twitter.svg" width="40" height="95">
-	</a>
-	<a href="https://www.linkedin.com/in/jessicadorame/" target="_blank">
-	<img align="center" src="https://github.com/Jessica-Dorame/Jessica-Dorame/blob/main/img/linkedin.svg" width="40" height="95">
-	</a>
-</p
-
 ## ¡Hello! 👋🏻
 
 Welcome to my profile I'm Jessica Dórame., i'm still a student, learning by my own too...
