@@ -1,5 +1,5 @@
 
-![Image](https://github.com/user-attachments/assets/0807dc2b-8d83-4aa6-8274-3af9309b7b30)
+![Image](img/bannerJRDG1.png)
 
 ## ¡Hello! 👋🏻
 
