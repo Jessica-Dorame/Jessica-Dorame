@@ -3,7 +3,7 @@
 
 ## ¡Hello! 👋🏻
 
-Welcome to my profile I'm Jessica Dórame., i'm still a student, learning by my own too...
+Welcome to my profile! I'm Jessica Dórame. I'm still a student, also learning on my own...
 ### 🚀 ¿What am I doing now?
 
 - 👨🏻‍💻*Developing personal projects!
