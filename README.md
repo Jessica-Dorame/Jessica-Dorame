@@ -1,5 +1,5 @@
 
-![Image](img/blancoynegrobanner.jpg)
+![Image](img/blancoynegrobanner.JPG)
 
 ## ¡Hello! 👋🏻
 
