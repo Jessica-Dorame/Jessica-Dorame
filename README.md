@@ -6,6 +6,18 @@
 <p align="center"style="color:rgb(247, 225, 189);">
 Welcome to my profile! I'm still a student, also learning on my own...
 </p>
+
+<div align="center"style="color:rgb(120, 171, 161);">
+  <h2>🌐 My social media </h2>
+  <p>Stay in touch with me, follow me on my journey to becoming a professional!</p>
+
+  
+| Instagram | X / Twitter |
+|:---------:|:-----------:|
+| <a href="https://instagram.com/floatycoder"><img src="https://skillicons.dev/icons?i=instagram" width="60"/></a><br>**Instagram**<br>@floatycoder | <a href="https://x.com/floatycoder"><img src="https://skillicons.dev/icons?i=twitter" width="60"/></a><br>**X**<br>@floatycoder |
+
+</div>
+
 <h2 align="center" style="color:rgb(120, 171, 161); font-size:14px; font-weight:bold;">
  ABOUT ME
 </h2>
@@ -21,18 +33,6 @@ I'm a Software Engineering student. Currently, my training focuses primarily on 
 <p align="left"style="color:rgb(247, 225, 189);">
 - Developing Personal Desktop projects<BR>- Finishing my developer degree<BR>- Taking a Front-End course
 </p>
-
-
-<div align="center"style="color:rgb(120, 171, 161);">
-  <h2>🌐 My social media </h2>
-  <p>Stay in touch with me, follow me on my journey to becoming a professional!</p>
-
-  
-| Instagram | X / Twitter |
-|:---------:|:-----------:|
-| <a href="https://instagram.com/floatycoder"><img src="https://skillicons.dev/icons?i=instagram" width="80"/></a><br>**Instagram**<br>@floatycoder | <a href="https://x.com/floatycoder"><img src="https://skillicons.dev/icons?i=twitter" width="80"/></a><br>**X**<br>@floatycoder |
-
-</div>
 
 <h2></h2>
 <h2 align="center"style="color:rgb(124, 173, 165); font-size:20px; font-weight:bold;">
