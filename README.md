@@ -5,9 +5,9 @@
 </h1>
 <div align="center"style="color:rgb(120, 171, 161);">
 
-| Instagram | X / Twitter |
-|:---------:|:-----------:|
-| <a href="https://instagram.com/floatycoder"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a><br>**Instagram**<br>@floatycoder | <a href="https://x.com/floatycoder"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a><br>**X**<br>@floatycoder |
+| Instagram | X / Twitter |  Discord   |
+|:---------:|:-----------:|:-----------:|
+| <a href="https://instagram.com/floatycoder"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a><br>**Instagram**<br>@floatycoder | <a href="https://x.com/floatycoder"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a><br>**X**<br>@floatycoder |<a href="https://https://discord.gg/floatycoder"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a><br>**tDiscord**<br>floatycoder | 
 
 </div>
 
