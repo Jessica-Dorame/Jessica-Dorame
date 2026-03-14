@@ -14,7 +14,7 @@ Welcome to my profile! I'm still a student, also learning on my own...
   
 | Instagram | X / Twitter |
 |:---------:|:-----------:|
-| <a href="https://instagram.com/floatycoder"><img src="https://skillicons.dev/icons?i=instagram" width="60"/></a><br>**Instagram**<br>@floatycoder | <a href="https://x.com/floatycoder"><img src="https://skillicons.dev/icons?i=twitter" width="60"/></a><br>**X**<br>@floatycoder |
+| <a href="https://instagram.com/floatycoder"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a><br>**Instagram**<br>@floatycoder | <a href="https://x.com/floatycoder"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a><br>**X**<br>@floatycoder |
 
 </div>
 
