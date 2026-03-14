@@ -1,8 +1,8 @@
 
 ![Image](img/banner.JPG)
-<p align="center" style="color:rgb(203, 117, 62); font-size:30px; font-weight:bold;">
+<h1 align="center" style="color:rgb(203, 117, 62); font-size:30px; font-weight:bold;">
  Jessica R. Dórame G.
-</p>
+</h1>
 <p align="center"style="color:rgb(247, 225, 189);">
 Welcome to my profile! I'm still a student, also learning on my own...
 </p>
@@ -26,11 +26,11 @@ Welcome to my profile! I'm still a student, also learning on my own...
 I'm a Software Engineering student. Currently, my training focuses primarily on Java, although I've also worked with Python and previously studied C# at another university. I've continued learning and practicing these languages ​​independently, developing personal desktop projects. I have a great curiosity for development and other areas of technology, and I have big plans for my future in technology!
 </div>
 
-<h2 align="left"style="color:rgb(120, 171, 161); font-size:14px; font-weight:bold;">
+<h2 align="center"style="color:rgb(120, 171, 161); font-size:14px; font-weight:bold;">
  ¿WHAT AM I DOING NOW?
 </h2>
 
-<p align="left"style="color:rgb(247, 225, 189);">
+<p align="center"style="color:rgb(247, 225, 189);">
 - Developing Personal Desktop projects<BR>- Finishing my developer degree<BR>- Taking a Front-End course
 </p>
 
