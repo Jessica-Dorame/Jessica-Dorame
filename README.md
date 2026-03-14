@@ -3,15 +3,8 @@
 <h1 align="center" style="color:rgb(203, 117, 62); font-size:30px; font-weight:bold;">
  Jessica R. Dórame G.
 </h1>
-<p align="center"style="color:rgb(247, 225, 189);">
-Welcome to my profile! I'm still a student, also learning on my own...
-</p>
-
 <div align="center"style="color:rgb(120, 171, 161);">
-  <h2>🌐 My social media </h2>
-  <p>Stay in touch with me, follow me on my journey to becoming a professional!</p>
 
-  
 | Instagram | X / Twitter |
 |:---------:|:-----------:|
 | <a href="https://instagram.com/floatycoder"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a><br>**Instagram**<br>@floatycoder | <a href="https://x.com/floatycoder"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a><br>**X**<br>@floatycoder |
@@ -23,6 +16,7 @@ Welcome to my profile! I'm still a student, also learning on my own...
 </h2>
 
 <div align="center" style="color:rgb(247, 225, 189);">
+Welcome to my profile! I'm still a student, also learning on my own... <br>
 I'm a Software Engineering student. Currently, my training focuses primarily on Java, although I've also worked with Python and previously studied C# at another university. I've continued learning and practicing these languages ​​independently, developing personal desktop projects. I have a great curiosity for development and other areas of technology, and I have big plans for my future in technology!
 </div>
 
